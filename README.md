@@ -1,0 +1,2 @@
+# ush
+Own SHELL terminall
