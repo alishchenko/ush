@@ -1,2 +1,2 @@
 # ush
-Own SHELL terminall
+Own SHELL terminall for MACos
